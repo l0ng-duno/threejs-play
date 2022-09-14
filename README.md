@@ -2,6 +2,6 @@
 First attempt on html css bootstrap js and threejs
 
 ### Download zip
-- Extract folder to where you want it to be
-- IDE open folder
-- terminal npm run dev
+1- Extract folder to where you want it to be
+2- IDE open folder
+3- terminal npm run dev
